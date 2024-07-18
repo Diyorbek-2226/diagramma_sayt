@@ -12,7 +12,7 @@ main{
     padding: 25px 25px;
     width: 100%;
     display: flex;
-    align-items: center;
+    
     
 }
 .saidbar-list{
@@ -108,4 +108,12 @@ margin: 80px 0px;
     border: none;
     box-shadow: 10px 5px 5px black;
 
+}
+.diagram-list{
+    width: 720px ;
+    height: 350px;
+    border: solid red;
+    border-radius: 20px;
+    background-color: #FFFFFF;
+    padding: 20px 30px;
 }
